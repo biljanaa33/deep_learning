@@ -1,0 +1,12 @@
+MODEL_NAME = "yolo26n.pt"
+
+PERSON_CLASS_ID = 0
+CONF_THRESHOLD = 0.25
+
+CAMERA_ID = 0
+
+# distance proxy
+CLOSE_HEIGHT_RATIO = 0.35
+
+# lock behavior
+MAX_LOST_FRAMES = 15
